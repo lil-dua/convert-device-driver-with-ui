@@ -1,6 +1,6 @@
 # convert-device-driver-with-ui
 
-<img src="Screenshot1.png" width = "250" > 
+<img src="Screenshot1.png" width = "450" > 
 
 Basic character device driver for convert base 2,8,10,16 number.
   - UI: Main Application using Qt Creator
