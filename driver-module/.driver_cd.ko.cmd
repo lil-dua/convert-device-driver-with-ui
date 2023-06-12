@@ -1,0 +1,1 @@
+cmd_/home/ryan/driver-convert/driver/driver_cd.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/ryan/driver-convert/driver/driver_cd.ko /home/ryan/driver-convert/driver/driver_cd.o /home/ryan/driver-convert/driver/driver_cd.mod.o;  true
